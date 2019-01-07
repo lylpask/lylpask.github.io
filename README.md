@@ -1,7 +1,13 @@
 ## Lyle Paskowitz
 lyle@jhu.edu
 
+About Me
+---------
+My name is Lyle and I'm a junior at Johns Hopkins, originally from New York. I study Applied Mathematics and Statistics, and some [math and computer science](#Coursework and Academic Background) which often coincide with it.
 
+I am currently deciding between pursuing industry or academia (grad school)! This summer, I will intern with Goldman Sachs as a algorithmic/quantitative trader in the Securities Division. I am also conducting research in the Applied Math department and hope to publish a conference paper this summer.
+
+Formally, my academic and professional experiences are listed below.
 
 Education
 ---------
@@ -16,7 +22,7 @@ Work Experience
 
 **Summer Technology Analyst**, Goldman Sachs & Co\.
 
-*New York, NY | May - August 2018*
+*New York, NY || May - August 2018*
 
 - Performed data analysis to automate strategic risk assessment of Securities technology.}
 - Transformed subjective risk assessments into quantitative insights by conducting PCA, K-means and HCS clustering on a self-built relational model of the firm's technology deployments and business units.
@@ -25,7 +31,7 @@ Work Experience
 
 **Operations Research Consultant**, Whiting School of Engineering
 
-*Baltimore, MD |  January 2018 - PRESENT*
+*Baltimore, MD || January 2018 - PRESENT*
 
 - Created season schedules used by entire MiLB leagues. Met challenging client demands from 14+ baseball teams and league officials, through combinatorial optimization.
 - Achieved robust solutions 30\% more optimal than hand-drawn schedules, in a fraction of the time through integer programming, supercomputing resources, and cutting-edge optimization algorithms.
@@ -47,7 +53,7 @@ Coursework and Academic Background
     * Intermediate background in object-oriented programming (C++/Java) through internship and coursework.
 
 
-Activities
+Other Activities
 ----------
 * Running
 
