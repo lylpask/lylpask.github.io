@@ -1,5 +1,5 @@
 ## Lyle Paskowitz
-lyle@jhu.edu
+Contact: lyle@jhu.edu
 
 About Me
 ---------
@@ -70,6 +70,8 @@ Other Activities
 * Academic Community
     * I am the Social Chair for the Hopkins Undergraduate Society of Applied Mathematicians (HUSAM). I help bring students and professors of the department together to share advice on classes, research, and careers.
     * Professionally, we have hosted recruiting events for firms including Bloomberg LP, Deloitte, and Marshall Wace just for Applied Math students.
+    
+
 
 
 My resume as a [PDF](https://raw.githubusercontent.com/lylpask/About-Myself/master/Resume_Fall_2018/Paskowitz_Resume__Fall_2018_.pdf).
