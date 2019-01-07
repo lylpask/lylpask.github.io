@@ -2,9 +2,9 @@
 
 About Me
 ---------
-My name is Lyle and I'm a junior at Johns Hopkins, originally from New York. I study Applied Mathematics and Statistics, and some [math and computer science](#coursework-and-academic-background) which often coincide with it.
+My name is Lyle and I am a junior at Johns Hopkins, originally from New York. I study Applied Mathematics and Statistics, and some [math and computer science](#coursework-and-academic-background) which often coincide with it.
 
-I am currently deciding between pursuing industry or academia (grad school)! This summer, I will intern with Goldman Sachs as a algorithmic/quantitative trader in the Securities Division. I am also conducting research in the Applied Math department and hope to publish a conference paper this summer.
+Post-graduation, I am deciding between pursuing industry or academia (grad school). This summer, I will intern with Goldman Sachs as a algorithmic/quantitative trader in the Securities Division. I am also conducting research in the Applied Math department and hope to publish a conference paper this summer.
 
 Formally, my academic and professional experiences are listed below.
 
