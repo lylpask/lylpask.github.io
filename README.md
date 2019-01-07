@@ -33,7 +33,7 @@ Work Experience
 *Baltimore, MD / January 2018 - PRESENT*
 
 - Created season schedules used by entire MiLB leagues. Met challenging client demands from 14+ baseball teams and league officials, through combinatorial optimization.
-- Achieved robust solutions 30\% more optimal than hand-drawn schedules, in a fraction of the time through integer programming, supercomputing resources, and cutting-edge optimization algorithms.
+- Achieved robust solutions 30% more optimal than hand-drawn schedules, in a fraction of the time through integer programming, supercomputing resources, and cutting-edge optimization algorithms.
 
 
 
