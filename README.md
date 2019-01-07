@@ -1,5 +1,4 @@
-## Lyle Paskowitz
-Contact: lyle@jhu.edu
+*Contact: lyle@jhu.edu*
 
 About Me
 ---------
