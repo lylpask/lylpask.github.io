@@ -6,16 +6,17 @@ lyle@jhu.edu
 Education
 ---------
 
-**BSc, Applied Mathematics & Statistics**: The Johns Hopkins University (Baltimore, MD), expected May 2020
+**BSc, Applied Mathematics & Statistics**: The Johns Hopkins University (Baltimore, MD), expected May 2020. 
 - Minor in Computer Science. Pursuing combined Bachelors/Masters in Applied Mathematics & Statistics, also expected May 2020.
+- 3.97/4.0 GPA
 
 
 Work Experience
 ----------
 
-**Summer Technology Analyst**, Goldman Sachs \& Co\.
+**Summer Technology Analyst**, Goldman Sachs & Co\.
 
-*New York, NY. May - August 2018*
+*New York, NY | May - August 2018*
 
 - Performed data analysis to automate strategic risk assessment of Securities technology.}
 - Transformed subjective risk assessments into quantitative insights by conducting PCA, K-means and HCS clustering on a self-built relational model of the firm's technology deployments and business units.
@@ -24,14 +25,14 @@ Work Experience
 
 **Operations Research Consultant**, Whiting School of Engineering
 
-*Baltimore, MD. January 2018 - PRESENT*
+*Baltimore, MD |  January 2018 - PRESENT*
 
 - Created season schedules used by entire MiLB leagues. Met challenging client demands from 14+ baseball teams and league officials, through combinatorial optimization.
 - Achieved robust solutions 30\% more optimal than hand-drawn schedules, in a fraction of the time through integer programming, supercomputing resources, and cutting-edge optimization algorithms.
 
 
 
-Skills and Background
+Coursework and Academic Background
 ----------
 * Applied Mathematics
     * Concentration in statistics. Understand applications and derivations of numerous learning procedures (PCA, SVD, random forest, Spectral Embedding, etc). Some background in statistical theory (performance measures, testing, exponential families, asymptotics). 
