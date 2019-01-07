@@ -1,7 +1,7 @@
 # Site
-title:              lylpask
-bio:                'Lyle Paskowitz'
-description:        "Resume, academics, and professional background.."
+title:              Lyle Paskowitz
+bio:                'About me.'
+description:        "Resume, academics, and professional background."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
