@@ -3,7 +3,7 @@ lyle@jhu.edu
 
 About Me
 ---------
-My name is Lyle and I'm a junior at Johns Hopkins, originally from New York. I study Applied Mathematics and Statistics, and some [math and computer science](#Coursework and Academic Background) which often coincide with it.
+My name is Lyle and I'm a junior at Johns Hopkins, originally from New York. I study Applied Mathematics and Statistics, and some [math and computer science](#Coursework) which often coincide with it.
 
 I am currently deciding between pursuing industry or academia (grad school)! This summer, I will intern with Goldman Sachs as a algorithmic/quantitative trader in the Securities Division. I am also conducting research in the Applied Math department and hope to publish a conference paper this summer.
 
@@ -38,7 +38,7 @@ Work Experience
 
 
 
-Coursework and Academic Background
+Coursework
 ----------
 * Applied Mathematics
     * Concentration in statistics. Understand applications and derivations of numerous learning procedures (PCA, SVD, random forest, Spectral Embedding, etc). Some background in statistical theory (performance measures, testing, exponential families, asymptotics). 
