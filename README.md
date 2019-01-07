@@ -54,12 +54,6 @@ Coursework and Academic Background
 
 Other Activities
 ----------
-* Running
-
-    * I ran the [Pelham Half Marathon](https://www.athlinks.com/event/158881/results/Event/824001/Course/1453610/Bib/1670) in November 2018. My goal is to race a full marathon by the end of 2020.
-
-
-
 * Entrepreneurship:
 
      * I worked as the Director of Events for TCO Labs in 2018, where I was responsible for the [Hatch 2018 Innovation Conference](https://tcolabshatch2018.splashthat.com/). I led a team of 20 students to host a conference with 150 attendees, connecting students with  investors, entrepreneurs and startups.
@@ -71,6 +65,9 @@ Other Activities
     * Professionally, we have hosted recruiting events for firms including Bloomberg LP, Deloitte, and Marshall Wace just for Applied Math students.
     
 
+* Recreational Running
+    * I ran the [Pelham Half Marathon](https://www.athlinks.com/event/158881/results/Event/824001/Course/1453610/Bib/1670) in November 2018. My goal is to race a full marathon by the end of 2020.
+    
 
 
 My resume as a [PDF](https://raw.githubusercontent.com/lylpask/About-Myself/master/Resume_Fall_2018/Paskowitz_Resume__Fall_2018_.pdf).
