@@ -19,7 +19,7 @@ Education
 Work Experience
 ----------
 
-**Summer Technology Analyst**, Goldman Sachs & Co\.
+**Summer Technology Analyst**, Goldman Sachs & Co.
 
 *New York, NY / May - August 2018*
 
