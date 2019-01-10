@@ -2,7 +2,8 @@
 # VP of Global Communications
 - company: Goldman Sachs & Co.
   position: Summer Technology Analyst
-  duration: May &mdash; August 2018 / New York, NY
+  duration: May &mdash; August 2018
+  location: New York, NY
   summary: <ul class="resume-item-list">
             <li>Performed data analysis to automate strategic risk assessment of Securities technology.</li>
             <li>Transformed subjective risk assessments into quantitative insights by conducting PCA, K-means and HCS clustering on a self-built relational model of the firm's technology deployments and business units.</li>
@@ -12,7 +13,8 @@
 # Communications Coordinator
 - company: Whiting School of Engineering
   position: Operations Research Consultant
-  duration:   January 2018  &mdash; Present / Baltimore, MD
+  duration:   January 2018  &mdash; Present
+  location: Baltimore, MD
   summary: <ul class="resume-item-list">
             <li> Created season schedules for 2019 New York-Penn baseball league. Met challenging client demands from 14+  teams and league officials, through combinatorial optimization. </li>
             <li> Achieved robust solutions 30% more optimal than hand-drawn schedules, in a fraction of the time through integer programming, supercomputing resources, and cutting-edge optimization algorithms. </li>
