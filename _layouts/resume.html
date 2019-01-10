@@ -207,7 +207,13 @@
         {% for activity in site.data.activities %}
         <div class="resume-item">
           <h4 class="resume-item-details">{{ activity.activity }}</h4>
-          <p class="resume-item-copy">{{ activity.description | markdownify }}</p>
+          <p class="resume-item-copy">{{ activity.description }}</p>
+          <p class="resume-item-copy" itemprop="description">
+            <ul class="resume-item-list">
+              {% for item in activity.description %}
+              <li>{{ item.item }}</li>
+              {% endfor %}
+            </ul></h5>
         </div>
         {% endfor %}
 
