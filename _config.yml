@@ -40,8 +40,7 @@ resume_contact_email:           "lyle@jhu.edu"
 # resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 # display_header_contact_info:    "false"
 
-resume_header_intro: 
-"<p> My name is Lyle, and I am a junior at Johns Hopkins, originally from New York. 
+resume_header_intro: "<p> My name is Lyle, and I am a junior at Johns Hopkins, originally from New York. 
      I study Applied Mathematics and Statistics, and some related math and computer science. <br/> 
      I am deciding between pursuing industry or graduate school. 
      This summer, I will intern with Goldman Sachs as a algorithmic & quantitative trader in the Securities Division. 
