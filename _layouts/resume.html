@@ -53,7 +53,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Experience</h2>
+          <h2>Work Experience</h2>
         </header>
 
         {% for job in site.data.experience %}
@@ -117,6 +117,26 @@
       <!-- end Projects -->
       {% endif %}
 
+    
+      {% if site.resume_section_academics %}
+      <!-- begin academics -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Academic Background</h2>
+        </header>
+        {% for academic in site.data.academics %}
+        <div class="resume-item">
+          <h4 class="resume-item-details">{{ academic.academic }}</h4>
+          <p class="resume-item-copy">{{ academic.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end academics -->
+      {% endif %}
+      
+    
       {% if site.resume_section_skills %}
       <!-- begin Skills -->
       <section class="content-section">
