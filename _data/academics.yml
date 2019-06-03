@@ -1,15 +1,20 @@
 # Academics
 # AMS 553
-- academic: Applied Mathematics & Statistics
+- academic: Statistics & Machine Learning
   description: |
-                Concentration in statistics. Understand applications and derivations of numerous learning procedures (PCA, SVD, random forest, Spectral Embedding, etc). 
-                Some background in statistical theory (performance measures, testing, exponential families, asymptotics).  
-                Significant experience in linear programming for operations research, as described above. 
-                Current and future topics of study are Stochastic Processes, Matrix Analysis, and Monte Carlo Methods.
+                Undergraduate concentration in statistics. Practical and theoretical experience with learning procedures (PCA, regression, boosting, SVD, mixture models, neural nets). 
+                Background in statistical theory (performance measures, decision theory, exponential families, M-estimates, asymptotics).  
+                
+# AM
+- academic: Applied Mathematics
+  description: |
+                Graduate concentration in probability theory. Familiar with stochastic processes, including Markov chains and martingales.
+                Also, significant experience in linear and integer programming for operations research, as described above. 
+                Current and future topics of study are Matrix Analysis, Stochastic Calculus, and Monte Carlo Methods.
 
 # Math 110
 - academic: Math
-  description: Have a foundation in real analysis. Currently studying functional analysis, with an eye on measure theory to get involved in probability theory and stochastic calculus.
+  description: Foundation in real analysis and functional analysis. Familiar with measure theory, especially in context of probability theory and stochastic calculus.
 
 # Computer Science
 - academic: Computer Science
